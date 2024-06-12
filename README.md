@@ -2,6 +2,17 @@
 
 This is a simple example of how to make graphs with Rust.
 
+## Codes
+- Charming: `src/charming_scatter.rs`
+- Plotters: `src/plotters_scatter.rs`
+
+## Images
+- Charming: `output/datasaurus_charming.png`
+![](output/datasaurus_charming.png)
+
+- Plotters: `output/datasaurus_plotters.png`
+![](output/datasaurus_plotters.png)
+
 ## How to run
 
 ```bash
