@@ -18,7 +18,7 @@ pub fn scatter_plot(
         .margin(20)
         .x_label_area_size(30)
         .y_label_area_size(30)
-        .build_cartesian_2d(0.0..10.0, 0.0..10.0)?;
+        .build_cartesian_2d(0.0..100.0, 0.0..100.0)?;
 
     // グリッド線とラベルの描画
     chart.configure_mesh().draw()?;
